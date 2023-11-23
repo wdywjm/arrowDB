@@ -1,0 +1,1 @@
+arrowDB is aimed to a embedded database like redis develop by Rust, Still Under development
